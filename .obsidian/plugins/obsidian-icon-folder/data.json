@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🔤",
+      "LiLetterText",
+      "LiListTodo",
+      "LiTestTube2",
+      "LiPersonStanding"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "ethereum": "FabEthereum",
+  "Notes": "LiNotebookTabs",
+  "Files": "LiFiles",
+  "Personal Stuff": "LiPersonStanding",
+  "fuzzing": "LiTestTube2",
+  "fuzzing/afl++/Next reads.md": "LiListTodo",
+  "Unicode and Character Sets.md": "LiLetterText",
+  "What every programmer absolutely, positively needs to know about encodings and character sets to work with text.md": "LiLetterText"
+}

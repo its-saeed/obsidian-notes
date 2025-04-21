@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "e4933bf5d610eaf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae73c2809a460fae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03651601114f3a55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Rust/Storing Keys with Associated Values in Hash Maps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Storing Keys with Associated Values in Hash Maps"
+            }
+          },
+          {
+            "id": "54884fedd1666935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Rust/Storing Keys with Associated Values in Hash Maps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Storing Keys with Associated Values in Hash Maps"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96e4041182d85f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dc6dc8d65909f2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "880042a436b441f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a16a2e7b203afe94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0bf12f084ca84e75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.501522064209
+  },
+  "right": {
+    "id": "71d7028ac1f9a89a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7744d89e737de692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94abe4fe2b0ec729",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ethereum/Deconstructing a Solidity Smart Contract.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Deconstructing a Solidity Smart Contract"
+            }
+          },
+          {
+            "id": "416c7168c763fcba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ethereum/Deconstructing a Solidity Smart Contract.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Deconstructing a Solidity Smart Contract"
+            }
+          },
+          {
+            "id": "6b5ba34ecf93a552",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "89a91aee5a212139",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Rust/Storing Keys with Associated Values in Hash Maps.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Storing Keys with Associated Values in Hash Maps"
+            }
+          },
+          {
+            "id": "dc35a79b4177b86c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "54884fedd1666935",
+  "lastOpenFiles": [
+    "To Be Read/Hash Functions.md",
+    "To Be Read",
+    "Notes/Rust/Storing Keys with Associated Values in Hash Maps.md",
+    "Notes/Rust/Storing UTF-8 Encoded Text with Strings.md",
+    "Files/Pasted image 20250421084741.png",
+    "To Be Read/Heap v.s. Stack.md",
+    "Notes/Rust/Common Collections.md",
+    "Unicode and Character Sets.md",
+    "Layout of State Variables in Storage.md",
+    "What every programmer absolutely, positively needs to know about encodings and character sets to work with text.md",
+    "Files/Pasted image 20250421070612.png",
+    "Files/ascii.webp",
+    "Files/1fe4WVn78pTINzt6ZQVl2Icc9lHNAZk036vqaXB60X0smt3RnxODqIXaCtJ3p9JzhY4M1o5QGhWj9R8LJQMIUcSNYKNMxlfSSNU9ci1dD51eoZ_Y2fqEpQEcY6PPmj-EzjUrHTdM-1.webp",
+    "Untitled.canvas",
+    "ethereum/Deconstructing a Solidity Smart Contract.md",
+    "Files/Pasted image 20250420170804.png",
+    "Files/Pasted image 20250420170645.png",
+    "Files/Pasted image 20250420164415.png",
+    "2025-04-20.md",
+    "Notes/Rust",
+    "fuzzing/afl++/Next reads.md",
+    "fuzzing/afl++/2.Exercise 1 - Xpdf.md",
+    "fuzzing/afl++/1.comp.anu.edu.au.md",
+    "2025-04-16.md",
+    "Personal Stuff",
+    "create a link.md",
+    "Welcome.md",
+    "Files",
+    "Notes",
+    "Files/Pasted image 20250416084150.png",
+    "Files/Pasted image 20250416073914.png",
+    "fuzzing/afl++/Untitled.canvas",
+    "fuzzing/afl++",
+    "fuzzing",
+    "Files/Pasted image 20250415072212.png",
+    "ethereum/images",
+    "ethereum"
+  ]
+}
