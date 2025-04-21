@@ -25,14 +25,14 @@
             "id": "54884fedd1666935",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Notes/Rust/Storing Keys with Associated Values in Hash Maps.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Storing Keys with Associated Values in Hash Maps"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -157,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Rust/Storing Keys with Associated Values in Hash Maps.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Storing Keys with Associated Values in Hash Maps"
+              "title": "Outline"
             }
           },
           {
@@ -207,13 +206,14 @@
   },
   "active": "54884fedd1666935",
   "lastOpenFiles": [
+    "Unrecoverable Errors with panic!.md",
+    "Notes/Rust/Common Collections.md",
+    "Notes/Rust/Storing Keys with Associated Values in Hash Maps.md",
     "To Be Read/Hash Functions.md",
     "To Be Read",
-    "Notes/Rust/Storing Keys with Associated Values in Hash Maps.md",
     "Notes/Rust/Storing UTF-8 Encoded Text with Strings.md",
     "Files/Pasted image 20250421084741.png",
     "To Be Read/Heap v.s. Stack.md",
-    "Notes/Rust/Common Collections.md",
     "Unicode and Character Sets.md",
     "Layout of State Variables in Storage.md",
     "What every programmer absolutely, positively needs to know about encodings and character sets to work with text.md",
