@@ -111,3 +111,59 @@ fn main() {
 It’s common to check whether a particular key already exists in the hash map with a value and then to take the following actions:
 - if the key does exist in the hash map, the existing value should remain the way it is;
 - if the key doesn’t exist, insert it and a value for it.
+
+```rust
+use std::collections::HashMap;
+
+fn main() {
+    let mut scores = HashMap::new();
+    scores.insert(String::from("Blue"), 10);
+
+    scores.entry(String::from("Yellow")).or_insert(50);
+    scores.entry(String::from("Blue")).or_insert(50);
+
+    println!("{scores:?}");
+}
+```
+- Hash maps have a special API for this called `entry` that takes the key you want to check as a parameter.
+- The return value of the `entry` method is an enum called `Entry` that represents a value that might or might not exist.
+- The `or_insert` method on `Entry` is defined to:
+	- return a mutable reference to the value for the corresponding `Entry` key if that key exists,
+	- and if not, it inserts the parameter as the new value for this key and returns a mutable reference to the new value.
+
+#### Updating a Value Based on the Old Value
+
+```rust
+use std::collections::HashMap;
+fn main() {
+    let text = "hello world wonderful world";
+    let mut map = HashMap::new();
+
+    for word in text.split_whitespace() {
+        let count = map.entry(word).or_insert(0);
+        *count += 1;
+    }
+
+    println!("{map:?}");
+}
+```
+
+### Hashing Functions
+[[Hash Functions]]
+- `HashMap` uses a hashing function called _SipHash_ by default. 
+- We can use other hasher
+- hasher is a type that implements `BuildHasher` trait
+
+### Questions
+1. Will this program pass the compiler?
+```rust
+use std::collections::HashMap;
+fn main() {
+  let mut h = HashMap::new();
+  h.insert("k1", 0);
+  let v1 = &h["k1"];
+  h.insert("k2", 1);
+  let v2 = &h["k2"];
+  println!("{} {}", v1, v2);
+}
+```
