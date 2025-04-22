@@ -77,7 +77,7 @@ To optimize this, there are several ways to encode Unicode code points into bits
 
 **UTF-32**
 is such an encoding that encodes all Unicode code points using 32 bits. 
-- Very simple to important
+- Very simple to implement
 - Wastes a lot of space.
 
 **UTF-16 and UTF-8**
@@ -149,3 +149,5 @@ Precisely because of that, there's virtually no excuse in this day and age not t
 The ingenious thing about UTF-8 is that it's binary compatible with ASCII
 - All characters available in the ASCII encoding only take up a single byte in UTF-8 and they're the exact same bytes as are used in ASCII.
 - Any character not in ASCII takes up two or more bytes in UTF-8.
+
+[[How To Encode in UTF-8]]

@@ -4,39 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "ae73c2809a460fae",
+        "id": "9ef20d1f508fada3",
         "type": "tabs",
         "children": [
           {
-            "id": "03651601114f3a55",
+            "id": "6c77e1089322a59e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Rust/Storing Keys with Associated Values in Hash Maps.md",
+                "file": "What every programmer absolutely, positively needs to know about encodings and character sets to work with text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storing Keys with Associated Values in Hash Maps"
+              "title": "What every programmer absolutely, positively needs to know about encodings and character sets to work with text"
             }
           },
           {
-            "id": "54884fedd1666935",
+            "id": "75e32c004020d302",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "How To Encode in UTF-8.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "How To Encode in UTF-8"
+            }
+          },
+          {
+            "id": "24205e1b401b536e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What every programmer absolutely, positively needs to know about encodings and character sets to work with text.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What every programmer absolutely, positively needs to know about encodings and character sets to work with text"
+            }
+          },
+          {
+            "id": "0e3588365e7b129c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust Questions"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.501522064209
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "71d7028ac1f9a89a",
@@ -109,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ethereum/Deconstructing a Solidity Smart Contract.md",
+                "file": "What every programmer absolutely, positively needs to know about encodings and character sets to work with text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Deconstructing a Solidity Smart Contract"
+              "title": "Backlinks for What every programmer absolutely, positively needs to know about encodings and character sets to work with text"
             }
           },
           {
@@ -190,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,28 +228,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "54884fedd1666935",
+  "active": "24205e1b401b536e",
   "lastOpenFiles": [
+    "How To Encode in UTF-8.md",
+    "Rust Questions.md",
+    "What every programmer absolutely, positively needs to know about encodings and character sets to work with text.md",
     "Unrecoverable Errors with panic!.md",
-    "Notes/Rust/Common Collections.md",
+    "Unicode and Character Sets.md",
+    "Untitled.canvas",
     "Notes/Rust/Storing Keys with Associated Values in Hash Maps.md",
+    "Notes/Rust/Common Collections.md",
     "To Be Read/Hash Functions.md",
     "To Be Read",
     "Notes/Rust/Storing UTF-8 Encoded Text with Strings.md",
     "Files/Pasted image 20250421084741.png",
     "To Be Read/Heap v.s. Stack.md",
-    "Unicode and Character Sets.md",
     "Layout of State Variables in Storage.md",
-    "What every programmer absolutely, positively needs to know about encodings and character sets to work with text.md",
     "Files/Pasted image 20250421070612.png",
     "Files/ascii.webp",
     "Files/1fe4WVn78pTINzt6ZQVl2Icc9lHNAZk036vqaXB60X0smt3RnxODqIXaCtJ3p9JzhY4M1o5QGhWj9R8LJQMIUcSNYKNMxlfSSNU9ci1dD51eoZ_Y2fqEpQEcY6PPmj-EzjUrHTdM-1.webp",
-    "Untitled.canvas",
     "ethereum/Deconstructing a Solidity Smart Contract.md",
     "Files/Pasted image 20250420170804.png",
     "Files/Pasted image 20250420170645.png",
