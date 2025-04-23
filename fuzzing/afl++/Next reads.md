@@ -1,2 +1,0 @@
-- [Fuzzing 101 exercise 2](https://github.com/antonio-morales/Fuzzing101)
-- https://research.checkpoint.com/2023/the-blitz-tutorial-lab-on-fuzzing-with-afl/

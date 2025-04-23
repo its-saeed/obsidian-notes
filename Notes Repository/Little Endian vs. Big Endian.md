@@ -1,0 +1,1 @@
+#little #big #endian #architecture

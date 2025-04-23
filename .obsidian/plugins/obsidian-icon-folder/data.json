@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebook",
+      "LiHourglass",
+      "FabRust",
       "🔤",
-      "LiLetterText",
-      "LiListTodo",
-      "LiTestTube2",
-      "LiPersonStanding"
+      "LiLetterText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,8 +38,10 @@
   "Notes": "LiNotebookTabs",
   "Files": "LiFiles",
   "Personal Stuff": "LiPersonStanding",
-  "fuzzing": "LiTestTube2",
-  "fuzzing/afl++/Next reads.md": "LiListTodo",
-  "Unicode and Character Sets.md": "LiLetterText",
-  "What every programmer absolutely, positively needs to know about encodings and character sets to work with text.md": "LiLetterText"
+  "Notes/Fuzzing Test.md": "LiTestTube2",
+  "Notes/Rust.md": "FabRust",
+  "Notes Repository": "LiNotebook",
+  "Notes Repository/What every programmer absolutely, positively needs to know about encodings and character sets to work with text.md": "LiLetterText",
+  "Notes Repository/Unicode and Character Sets.md": "LiLetterText",
+  "Next Reads.md": "LiListTodo"
 }

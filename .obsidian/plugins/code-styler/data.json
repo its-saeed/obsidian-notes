@@ -315,13 +315,13 @@
           "textItalic": true
         },
         "languageTag": {
-          "display": "always",
+          "display": "none",
           "textFont": "",
           "textBold": true,
           "textItalic": false
         },
         "languageIcon": {
-          "display": "always",
+          "display": "none",
           "displayColour": true
         },
         "externalReference": {
@@ -349,7 +349,7 @@
       "advanced": {
         "gradientHighlights": false,
         "gradientHighlightsColourStop": "70%",
-        "languageBorderColour": true,
+        "languageBorderColour": false,
         "languageBorderWidth": 5,
         "iconSize": 28
       }

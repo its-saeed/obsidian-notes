@@ -4,7 +4,10 @@
   "url-into-selection",
   "various-complements",
   "execute-code",
-  "code-styler",
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "obsidian-tasks-plugin",
+  "obsidian-auto-link-title",
+  "code-styler"
 ]
